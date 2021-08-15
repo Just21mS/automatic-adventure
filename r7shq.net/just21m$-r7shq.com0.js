@@ -25,5 +25,3 @@ $(`<a href="http://www.r7shq.net/" target="_blank" id="as0" class="border">ال�
 
 
 $(".fa-gear").text("الضبط").css("width","");
-$(`<div><marquee direction="right" width="120%" id="des0" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="4"> اهلا وسهلا بكم في شات <font color="#595959" class="des2"> رحيق الشوق </font>افضل حضور <font class="des2" color="#595959"> قريباً </font>مبدع الشات <font class="des2" color="#595959"> قريباً </font>افضل روم<font class="des2" color="#595959">قريبا </font>مبدع الحائط <font class="des2" color="#595959"> قريباً </font>مع تمنياتنا للجميع </marquee></div>`).insertBefore('.lonline.light.break');
-$(`<div><marquee direction="right" width="120%" id="des0" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="4"> </marquee></div>`).insertBefore('.lonline.light.break');
