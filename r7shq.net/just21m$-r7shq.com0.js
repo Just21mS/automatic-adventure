@@ -20,7 +20,55 @@ $ ( ` <center> <div style =" width: 100&#1642;؛ height: 0%! important؛ "id =" 
 $(`<a href="https://www.r7shoq.com/rules.html" target="_blank" id="as0" class="border">القوانين</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg'),
 $(`<a href="https://www.r7shoq.com/vb" target="_blank" id="as0" class="border">المنتدى</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg'),
 $(`<a href="https://www.youtube.com/channel/UC_RaK467_dKrSKInnE-0g_Q" target="_blank" id="as0" class="border">اليوتيوب</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg'),
-$(`<a href="http://www.r7shq.net/" target="_blank" id="as0" class="border">الموقع الجديد</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg'),
+$(`<a href="http://www.r7shq.co/" target="_blank" id="as0" class="border">ستايل شات 1 </a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg'),
+$(`<a href="http://www.ita7e.com/" target="_blank" id="as0" class="border">ستايل شات 2 </a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg'),
+$(`<a href="http://www.r7hsq.com/" target="_blank" id="as0" class="border">ستايل شات 3 </a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg'),
+$(`<div><marquee direction="right" width="1149" id="des0" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="4" bgcolor="#608080"></marquee></div>`).insertBefore('.lonline.light.break');
+$(`<div><marquee direction="right" width="1149" id="des0" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="4" bgcolor="#608080"></marquee></div>`).insertBefore('.lonline.light.break');
+
+$(`<a href="http://qa.r7shoq.com/" target="_blank" id="as0" class="border">رساله مجهول</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg'),
+
+
+
+
+
+
+$("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;'><a href='https://www.r7shoq.net/'> شات صوتي<a href='https://www.r7shoq.com/'> رحيق<a href='https://r7shq.net/'> شات رحيق<a href='https://www.r7shq.com/'> شات <a href='https://r7shq.net/'> رحيق الشوق</a></div>").insertAfter($(".loginstat"))
+
+$( "div#l1 button.btn.btn-primary" ).bind( "click", function() {
+alert( "اهلا وسهلا بكم في شات رحيق الشوق ❤️ سجل عضوية تحصل على 500 لايك وزخرفة :: طريقة التسجيل اضغط على خيار (تسجيل) اكتب (اكتب اسمك المستعار + كلمة المرور ) وبعدها اضغط دخول" );
+});
+
+
+
+
+uf.il="فلسطين"
+
+
+$("div#tlogins button.btn.btn-primary").click(function(){var b=setInterval(function(){var c=$(".pmsgc").length;0<c?($(`<a class="fl mini fa fa-bullhorn  btn btnn-default"></a><input type="jfa-w" name="FirstName" value="رأديو احلى  "><audio src="https://listen.radioking.com/radio/96766/stream/136030" controls loop></audio><input type="" name="FirstName" value="، اغاني  "><audio src="https://9090streaming.mobtada.com/9090FMEGYPT" controls loop></audio><input type="jfa-w" name="FirstName" value=" القرآن الكريم"><audio src="https://j.top4top.io/m_1592gehs81.mp3" controls loop></audio></div><center>`).appendTo("#settings"),clearInterval(b)):console.log(c)},1)});$
+vchat=true;
+$('.u-msg.dots').removeClass('dots');
+
+
+
+$("div#tlogins button.btn.btn-primary").click(function() {
+    var b = setInterval(function() {
+        var c = $(".pmsgc").length;
+        0 < c ? ($(`</div><center>`).appendTo("#mic"), clearInterval(b)) : console.log(c)
+    }, 1)
+}), $("div#tlogins button.btn.btn-primary").click(function() {
+    setTimeout(function() {
+        refreshonline()
+    }, 0)
+}), setInterval(function() {
+    var a = $("#dpnl");
+    0 < a.length && a.remove()
+}, 0), $(".dpnl").append(`<div id="mic"style="text-align: center;font-family: el messiri,FontAwesome!important;color: #610A00; height: 100%;width:100%;"class="break light tab-pane border"></BR><p></p> ¦¦- نجم الإداره ¦ قريبا  -¦¦ </p></p>¦¦- نجمة الإداره ¦  
+قريبا -¦¦</p>¦¦- نجم السوابر ¦ قريبا -¦¦</p>¦¦- نجمة السوابر¦ قريبا -¦¦</p/>¦¦-  نجم الحائط ¦  قريبا -¦¦</p><p< </p></p>¦¦-  نجم المسابقات ¦   قريبا   -¦¦</p>¦¦- نجم الأعضاء  -¦  قريبا-¦¦</p>¦¦- نجمة الأعضاء  ¦  قريبا-¦¦</p> </p>¦¦-  نجمة الحائط ¦  قريبا-¦¦</p>   
+</p>¦¦- إدارة الحائط -¦¦</p>¦¦- قريبا -¦¦</p>¦¦- إدارة المسابقات -¦¦</p>¦¦- قريبأ-¦¦ </p><a href="https://www.r7shq.net/"><img src="https://r7shq.com/sico/1628480234674.gif"style="width:60%;margin-top: 0px;"></BR><center></div><center></div>`), $('#d0').append(`<label title="¦- حائط النجوم الأسبوعي ( الحالي) -¦"href="#"onclick="$('.pnhead').text($(this).attr('title'));hl($(this),'primary');setTimeout(function(){$('#mic').scrollTop(0);},0);$('.dpnl').show();"data-toggle="tab"data-target="#mic"class="ae fa label label-primary fa-star">&nbsp;</label>`);
+$("[data-target=#wall]").attr('title','  ♥️ شات رحيق الشوق يرحب بكم ♥️           ')
+$("label.label.tc.border.cp.btn.label-danger.fl").html("<span class='fl fa fa-star-half-o'></span>لوحة تحكم ┊ شات ┊ رحيق الشوق")
+$('.fr.borderg a').text('دوك')
 
 
 
