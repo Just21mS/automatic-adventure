@@ -22,7 +22,7 @@ $(`<a href="https://www.r7shoq.com/vb" target="_blank" id="as0" class="border">�
 $(`<a href="https://www.youtube.com/channel/UC_RaK467_dKrSKInnE-0g_Q" target="_blank" id="as0" class="border">اليوتيوب</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg'),
 $(`<a href="http://www.r7shq.co/" target="_blank" id="as0" class="border">ستايل شات 1 </a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg'),
 $(`<a href="http://www.ita7e.com/" target="_blank" id="as0" class="border">ستايل شات 2 </a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg'),
-$(`<a href="http://www.r7hsq.com/" target="_blank" id="as0" class="border">ستايل شات 3 </a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg'),
+$(`<a href="http://www.r7shq.com/" target="_blank" id="as0" class="border">ستايل شات 3 </a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg'),
 $(`<div><marquee direction="right" width="1149" id="des0" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="4" bgcolor="#608080"></marquee></div>`).insertBefore('.lonline.light.break');
 $(`<div><marquee direction="right" width="1149" id="des0" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="4" bgcolor="#608080"></marquee></div>`).insertBefore('.lonline.light.break');
 
