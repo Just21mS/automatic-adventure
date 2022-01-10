@@ -1,4 +1,4 @@
-$(`<img src="https://r7shq.com/sico/1628480234674.gif" 
+$(`<img src="https://r7shq.net/sico/1628480234674.gif" 
 class="" style="width:100%;margin-top: 0px;">
 <div id="des333"><a id="des444" href="https://r7shoq.com/contact.html" target="_blank" type="button" style="border-radius: 70px 70px 0px 0px;transform: matrix(1, 0, 0, 1, 2, 155); width: 24%; margin: 2px;" class="btn-des">توأصل معنا</a>
 <a id="des444" href="https://r7shq.net" target="_blank" type="button" style="border-radius: 70px 70px 0px 0px;transform: matrix(1, 0, 0, 1, -96, 155); width: 24%; margin: 2px;" class="btn-des">أختصارات</a>
