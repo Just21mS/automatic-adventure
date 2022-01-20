@@ -9,7 +9,7 @@
 
 
 div#tlogins {
-    background-image: url(https://r7shq.co/sico/1642703537505.gif);
+    background-image: url(/sico/1642703537505.gif);
 	box-shadow: inset 0px 0px 5px rgb(255 255 255), 0 0 10px #ffffff8a!important;
 }
 
