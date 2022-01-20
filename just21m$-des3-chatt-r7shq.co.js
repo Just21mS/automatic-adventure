@@ -1,4 +1,3 @@
-$(`<img src="https://r7shq.net/sico/1628480234674.gif"class="" style="width:100%;margin-top: 0px;">
 <div class='fr borderg' style='padding:2px;background-color:white;float:left;'> جست21د :<a href='https://www.r7shq.net/'>تصميم وبرمجه</a></div>","<input id="stealth" type="checkbox" value="" maxlength="12"><i class="fa fa-eye-slash" aria-hidden="true">","body","1UmfHbJ",".loginstat","ul.nav.nav-tabs","5076659QXSDSH","524943ofZdmq","<link rel="stylesheet" type="text/css" href="">
 <link rel="stylesheet" type="text/css" href="https://www.fontstatic.com/f=lemonada,lemonada-light" />
 <link rel="stylesheet" href="https://raw.githack.com/waleed-qaid/des3/main/www.1des.net-chatt-n1w.net-new.css.css">
