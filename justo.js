@@ -1,4 +1,5 @@
-$(`<a id="عاصم" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a><img id="asim70"src="sico/1602857219172.png"style="width:100%"><a id="asim27"target="_blank"type="a"rel="nofollow"title="ساكتلكم مو ادب قلة مجال"href="dookmobile.com"class="label-primary"style="margin:-2px 0 0 -374px"></a></div></div><center>`).insertBefore(".nav-tabs"),$(".nav-tabs").addClass("fl").css("width","100%"),
+try{
+														$(`<a id="عاصم" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a><img id="asim70"src="sico/1602857219172.png"style="width:100%"><a id="asim27"target="_blank"type="a"rel="nofollow"title="ساكتلكم مو ادب قلة مجال"href="dookmobile.com"class="label-primary"style="margin:-2px 0 0 -374px"></a></div></div><center>`).insertBefore(".nav-tabs"),$(".nav-tabs").addClass("fl").css("width","100%"),
 $(`<center><div id="asim1">
 <a id="asim7"rel="dofollow" title="القوانين" href="https://iraqna.net/rules.html"style="border-radius: 0 4px 0 0; border-right: 2px solid#f7d322;"class="fl mini  fa fa-bullhorn btn btn-primary" target="_blank"></a>
 <a id="asim7"rel="dofollow" title="الاشتراكات" href="https://iraqna.net/sub.html"style="border-right: 1px solid#fff;"class="fl mini  fa fa-star-half-o btn btn-primary" target="_blank"></a>
@@ -40,3 +41,6 @@ $('.tc span[class="fa fl"]').addClass('fa-check');var nopm=!0,nonot=!0;
 $("div#tlogins button.btn.btn-primary").click(function(){var b=setInterval(function(){var c=$(".pmsgc").length;0<c?($(`<iframe id="smoke1"src="https://blog.iraqna.net/Radio" width="26px" height="26px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe>`).insertAfter('button.fa.fa-sign-out.fl.btn.btn-primary'),clearInterval(b)):console.log(c)},1)}),$("div#tlogins button.btn.btn-primary").click(function(){setTimeout(function(){refreshonline()},0)});
 $(`<img tabindex="0" class="smoke fl"data-original-title="" title=""id="smoke3">
 `).insertAfter('img.fl.nosel.emobox');
+													}
+														catch (e){
+															console.log(e
