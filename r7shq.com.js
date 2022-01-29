@@ -15,7 +15,7 @@ $(`<img src="https://r7shq.com/sico/1628480234674.gif"
 	`).insertBefore('body');
 	$(`<img style="height:50px;width: 100%;margin-right: 3px;background-color: #ececec;" src="sico/1628480312370.gif" border="0">`).insertBefore('div#d2bc');
 	$(` <center><div width="99%" id="asim7"><font style="background-color: #8F9DE0;border-radius: 14px 14px 15px 15px;font-family: 'jazeera',FontAwesome white;padding: 2px 10px 2px 10px;margin: 7px 10px 7px 10px;" > يسمح السوالف يوم الخميس فقط   </font></div><center>`).insertBefore('div#d2bc');
-	$('.break.light').css({"background-image":"url(sico/1643417136433.gif)"});
+	$('.break.light').css({"background-image":"url(sico/1642703537505.gif)"});
 	$ ( ` <center> <div style =" width: 100&#1642;؛ height: 0%! important؛ "id =" as "margin: 2px؛" class = "fa fa-heartbeat btn btn-primary" type = "button" data-toggle = "collapse" data-target = "#apseExample" aria-expanded = "false" aria-controls = "collapseExample">_- ¦¦ - حيآإكم فـَي شآإٌت رحيق الشوق للجوال - ¦¦ -_❥</ div> <div class = "" id = "collapseExample"> <center> </ i> </ div> <center> ` ). insertBefore ( '#d2' );
 	$(`<a href="https://www.r7shoq.com/rules.html" target="_blank" id="as0" class="border">القوانين</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg'),
 	$(`<a href="https://www.r7shoq.com/vb" target="_blank" id="as0" class="border">المنتدى</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg'),
