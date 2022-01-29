@@ -15,7 +15,7 @@ $(`<img src="https://r7shq.com/sico/1628480234674.gif"
 	`).insertBefore('body');
 	$(`<img style="height:50px;width: 100%;margin-right: 3px;background-color: #ececec;" src="sico/1628480312370.gif" border="0">`).insertBefore('div#d2bc');
 	$(` <center><div width="99%" id="asim7"><font style="background-color: #999999;border-radius: 14px 14px 15px 15px;font-family: 'jazeera',FontAwesome white;padding: 2px 10px 2px 10px;margin: 7px 10px 7px 10px;" > يسمح السوالف اربعاء خميس جمعه   </font></div><center>`).insertBefore('div#d2bc');
-	$('.break.light').css({"background-image":"url(1643423212365.gif)"});
+	$('.break.light').css({"background-image":"url(sico/1643423212365.gif)"});
 	$(`<a href="https://www.r7shoq.com/rules.html" target="_blank" id="as0" class="border">القوانين</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg'),
 	$(`<a href="https://www.r7shoq.com/vb" target="_blank" id="as0" class="border">المنتدى</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg'),
 	$(`<a href="https://www.youtube.com/channel/UC_RaK467_dKrSKInnE-0g_Q" target="_blank" id="as0" class="border">اليوتيوب</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg'),
