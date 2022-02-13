@@ -199,7 +199,7 @@ img.fitimg.fl.u-pic {
     100% { box-shadow: 0px 0px 2px 2px #be01cd; }
 }
 div.hand.corner {
-    -webkit-animation: swoopOut 3s ease 1 forwards;
+    -webkit-animation: swoopOut 50s ease 1 forwards;
     text-align: center;
     color: #fefffc;
     min-width: 260px;
@@ -510,12 +510,12 @@ $('.ae.fa.label.label-primary.fa-users').html(`⠀`);
 $('.ae.label.label-primary.fa.fa-bolt').html(`⠀`);
 $('.fl.ustat')
     .css('width', '3px'), $('.fa.fa-user-plus')
-    .html(`سجل منا `), document.getElementById('u1')
-    .placeholder = 'اشرب شاي, يا زاير هلا بيك يا زاير ', 
+    .html(`التسجيل هنا `), document.getElementById('u1')
+    .placeholder = 'اشرب شاي, يا زاير هلا بيك يا زائـر ', 
 document.getElementById('pass1')
   .placeholder = 'اكتب باسبوردك وخلصني', document.getElementById('u2')
-    .placeholder = 'اسمك يا زاير', document.getElementById('pass2')
-    .placeholder = ' اكتب اسمك وحفظه زين يا زاير ', document.getElementById('u3')
+    .placeholder = 'اسمك يا زائر', document.getElementById('pass2')
+    .placeholder = ' اكتب اسمك وحفظه زين يا زائر ', document.getElementById('u3')
     .placeholder = 'احفظ باسبوردك يا زاير ولا تنسا ';
 $('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="sico/1644598929401.gif" width="70%" style="">`)
 $('div#l2 button.btn.btn-primary')['bind']('click', function () { alert (' اهلا  وسهلا بكم مجددآ ب شات  رحيق الشوق❤ ') });
@@ -524,7 +524,7 @@ $(document.getElementById("tbox").placeholder = "  المحادثة العامة
 $("[data-target=#settings]").attr('title','حبشكلات')
 $("[data-target=#rooms]").attr('title','ألغرف')
 $("[data-target=#chats]").attr('title','لأهل السطوح')
-$("[data-target=#users]").attr('title','جماعتك هنا تلكاهم')
+$("[data-target=#users]").attr('title','جماعتك هنا بتشوفهم')
  $("label.label.tc.border.cp.btn.label-danger.fl").html("<span class='fl fa fa-star'></span> لوحة تحكم  شات رحيق الشوق   ") 
 $(`<img style="height:50px;width:100%;margin-right: 3px;background-color: #5bbeee;" src="sico/1644602384890.gif" border="0"><a href="" target="_blank"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;color: #5bbeee;"> </font></font></a> 
 `).insertBefore('div#d2bc');
